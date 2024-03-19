@@ -1,0 +1,108 @@
+.header{
+ padding: 20px;
+background-color: aquamarine;
+text-align: center;
+}
+
+.header h1 {
+color: crimson;
+font: size 20px;
+
+ }
+.nav{
+ background-color: chartreuse;
+ padding: 5px;
+}
+
+.nav li{
+ list-style: none;
+display:inline-block;
+ padding: 8px;}
+
+
+.nav a{display: block;
+ color: blue;
+ padding: 14px 16px;
+ text-decoration: none;}
+.nav a :hover{background-color: brown;
+color: cornflowerblue;}
+             
+
+.nav ul li a:hover{
+text-decoration:blueviolet;
+color: white;
+         }
+         
+.iside {
+ float:left;
+ width: 50%;
+min-height: 200px;
+background-color: cadetblue;
+text-align: center;}
+
+.rside{
+text-align: center;
+float:right;
+width: 50%;
+ min-height: 200px;
+ background-color: darkgoldenrod;}
+
+ .nusrat {
+  float:left;
+  width: 50%;
+ min-height: 200px;
+ background-color: darkorange;
+ text-align: center;}
+ 
+ .preeti {
+  float:left;
+  width: 50%;
+ min-height: 200px;
+ background-color: cornflowerblue;
+ text-align: center;}
+
+ .gallery{background-color: aquamarine;
+ display: flex;}
+
+ .shawn1{height:100%;
+ width: 100%;
+background-color: bisque;}
+
+.shawn2{height:100%;
+  width: 100%;
+ background-color: lightgreen;
+}
+
+.shawn3{height:100%;
+  width: 100%;
+ background-color: lightgray;
+}
+ 
+.shawn4{height:100%;
+  width: 100%;
+ background-color: lightsalmon;
+}
+
+ .mtitle{text-align: center;}
+
+.shawn{float: left;
+width: 50%;
+min-height: 200px;
+background-color: lightgreen;
+text-align: center;}
+
+  .mia{text-align: center;
+    float:right;
+    width: 50%;
+  min-height: 200px;   
+background-color: lightblue;   }
+
+
+.footer { background-color: blue;
+    text-align: center;
+   padding: 10px;
+ }
+.footer p{color:deeppink;
+font-size: 20px;}
+                    
+.title{text-align: center;}
